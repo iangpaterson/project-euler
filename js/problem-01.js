@@ -5,6 +5,6 @@ function sumOfMultiples(num) {
 			sum += i;
 		}
 	}
-	console.log(`The sum of all multiples of 3 or 5 below ${num} is ${sum}`);
+	console.log(`The sum of all the multiples of 3 or 5 below ${num} is ${sum}`);
 }
 sumOfMultiples(1000);
